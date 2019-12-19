@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Zeidler_Automation_Assignment" duration-ms="68667" started-at="2019-12-19T19:18:44Z" finished-at="2019-12-19T19:19:53Z">
+    <groups>
+    </groups>
+    <test name="TestAssignment" duration-ms="68667" started-at="2019-12-19T19:18:44Z" finished-at="2019-12-19T19:19:53Z">
+      <class name="com.test.testcases.Files_UploadImages">
+        <test-method status="PASS" signature="Setup()[pri:0, instance:com.test.testcases.Files_UploadImages@77846d2c]" name="Setup" is-config="true" duration-ms="9431" started-at="2019-12-20T00:48:35Z" finished-at="2019-12-20T00:48:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="setApplicationLoginPage()[pri:0, instance:com.test.testcases.Files_UploadImages@77846d2c]" name="setApplicationLoginPage" is-config="true" duration-ms="417" started-at="2019-12-20T00:48:44Z" finished-at="2019-12-20T00:48:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setApplicationLoginPage -->
+        <test-method status="PASS" signature="beforeMethodCalled(java.lang.reflect.Method)[pri:0, instance:com.test.testcases.Files_UploadImages@77846d2c]" name="beforeMethodCalled" is-config="true" duration-ms="0" started-at="2019-12-20T00:48:44Z" finished-at="2019-12-20T00:48:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.test.testcases.Files_UploadImages.UploadPNGImage()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodCalled -->
+        <test-method status="PASS" signature="UploadPNGImage()[pri:1, instance:com.test.testcases.Files_UploadImages@77846d2c]" name="UploadPNGImage" duration-ms="39894" started-at="2019-12-20T00:48:44Z" finished-at="2019-12-20T00:49:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UploadPNGImage -->
+        <test-method status="PASS" signature="afterMethodCalled(java.lang.reflect.Method)[pri:0, instance:com.test.testcases.Files_UploadImages@77846d2c]" name="afterMethodCalled" is-config="true" duration-ms="1" started-at="2019-12-20T00:49:24Z" finished-at="2019-12-20T00:49:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.test.testcases.Files_UploadImages.UploadPNGImage()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodCalled -->
+        <test-method status="PASS" signature="beforeMethodCalled(java.lang.reflect.Method)[pri:0, instance:com.test.testcases.Files_UploadImages@77846d2c]" name="beforeMethodCalled" is-config="true" duration-ms="1" started-at="2019-12-20T00:49:24Z" finished-at="2019-12-20T00:49:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.test.testcases.Files_UploadImages.UploadJPEGImage()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodCalled -->
+        <test-method status="PASS" signature="UploadJPEGImage()[pri:2, instance:com.test.testcases.Files_UploadImages@77846d2c]" name="UploadJPEGImage" duration-ms="22298" started-at="2019-12-20T00:49:24Z" finished-at="2019-12-20T00:49:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UploadJPEGImage -->
+        <test-method status="PASS" signature="afterMethodCalled(java.lang.reflect.Method)[pri:0, instance:com.test.testcases.Files_UploadImages@77846d2c]" name="afterMethodCalled" is-config="true" duration-ms="0" started-at="2019-12-20T00:49:47Z" finished-at="2019-12-20T00:49:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.test.testcases.Files_UploadImages.UploadJPEGImage()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodCalled -->
+        <test-method status="PASS" signature="beforeMethodCalled(java.lang.reflect.Method)[pri:0, instance:com.test.testcases.Files_UploadImages@77846d2c]" name="beforeMethodCalled" is-config="true" duration-ms="1" started-at="2019-12-20T00:49:47Z" finished-at="2019-12-20T00:49:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.test.testcases.Files_UploadImages.DeleteImage()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodCalled -->
+        <test-method status="PASS" signature="DeleteImage()[pri:3, instance:com.test.testcases.Files_UploadImages@77846d2c]" name="DeleteImage" duration-ms="6024" started-at="2019-12-20T00:49:47Z" finished-at="2019-12-20T00:49:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteImage -->
+        <test-method status="PASS" signature="afterMethodCalled(java.lang.reflect.Method)[pri:0, instance:com.test.testcases.Files_UploadImages@77846d2c]" name="afterMethodCalled" is-config="true" duration-ms="1" started-at="2019-12-20T00:49:53Z" finished-at="2019-12-20T00:49:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.test.testcases.Files_UploadImages.DeleteImage()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodCalled -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.test.testcases.Files_UploadImages@77846d2c]" name="tearDown" is-config="true" duration-ms="0" started-at="2019-12-20T00:49:53Z" finished-at="2019-12-20T00:49:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="suiteEndReached()[pri:0, instance:com.test.testcases.Files_UploadImages@77846d2c]" name="suiteEndReached" is-config="true" duration-ms="748" started-at="2019-12-20T00:49:53Z" finished-at="2019-12-20T00:49:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suiteEndReached -->
+      </class> <!-- com.test.testcases.Files_UploadImages -->
+    </test> <!-- TestAssignment -->
+  </suite> <!-- Zeidler_Automation_Assignment -->
+</testng-results>
